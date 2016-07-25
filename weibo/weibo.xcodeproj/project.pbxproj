@@ -14,6 +14,7 @@
 		249FBDED1D45E65800F6FADE /* weibo.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 249FBDEB1D45E65800F6FADE /* weibo.xcdatamodeld */; };
 		249FBDEF1D45E65800F6FADE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 249FBDEE1D45E65800F6FADE /* Assets.xcassets */; };
 		249FBDF21D45E65800F6FADE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 249FBDF01D45E65800F6FADE /* LaunchScreen.storyboard */; };
+		249FBDFB1D45F34800F6FADE /* Cat.m in Sources */ = {isa = PBXBuildFile; fileRef = 249FBDFA1D45F34800F6FADE /* Cat.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,8 @@
 		249FBDEE1D45E65800F6FADE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		249FBDF11D45E65800F6FADE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		249FBDF31D45E65800F6FADE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		249FBDF91D45F34800F6FADE /* Cat.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Cat.h; sourceTree = "<group>"; };
+		249FBDFA1D45F34800F6FADE /* Cat.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Cat.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +67,8 @@
 				249FBDE31D45E65800F6FADE /* AppDelegate.m */,
 				249FBDE51D45E65800F6FADE /* ViewController.h */,
 				249FBDE61D45E65800F6FADE /* ViewController.m */,
+				249FBDF91D45F34800F6FADE /* Cat.h */,
+				249FBDFA1D45F34800F6FADE /* Cat.m */,
 				249FBDE81D45E65800F6FADE /* Main.storyboard */,
 				249FBDEE1D45E65800F6FADE /* Assets.xcassets */,
 				249FBDF01D45E65800F6FADE /* LaunchScreen.storyboard */,
@@ -157,6 +162,7 @@
 				249FBDE71D45E65800F6FADE /* ViewController.m in Sources */,
 				249FBDE41D45E65800F6FADE /* AppDelegate.m in Sources */,
 				249FBDE11D45E65800F6FADE /* main.m in Sources */,
+				249FBDFB1D45F34800F6FADE /* Cat.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
